@@ -9,7 +9,7 @@ Link: [https://public.tableau.com/views/Module18-CitiBike_17152263523050/Story1?
 
 The map was configured so that the size of the station markers corresponds with number of rides that originated from that station. 
 
-<img width="1012" alt="Screenshot 2024-05-08 at 11 51 48 PM" src="https://github.com/ndchian/tableau-citi-bike/assets/153045237/1046de5a-147a-4b66-a7e3-3cc24c00c430">
+![Screenshot 2024-06-03 at 1 25 42 PM](https://github.com/ndchian/tableau-citi-bike/assets/153045237/839da3df-28f1-4c71-bab8-adcf083d36f5)
 
 To be able to drill in a little deeper, the second dashboard offers a look at the top 10 most popular starting and end stations for bike rides. The screenshot shows the information for starting stations and as you explore the dashboard, you will notice that the top 10 ending stations are the same. There is a slight variation in the top 10 order, but this indicates many riders choose to begin their biking expeditions in relatively the same place they choose to end them. As you hover over any of the station markers, you are able to see the number of rides that start or end at that station, depending on which infographic you are interacting with.
 
