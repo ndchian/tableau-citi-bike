@@ -5,7 +5,7 @@ Link: [https://public.tableau.com/views/Module18-CitiBike_17152263523050/Story1?
 ## Analysis
 
 
-<img width="984" alt="Screenshot 2024-05-08 at 11 51 13 PM" src="https://github.com/ndchian/tableau-citi-bike/assets/153045237/5ed4068a-6150-474a-93c3-8e63dc5f5b8e">
+![Screenshot 2024-06-03 at 1 23 30 PM](https://github.com/ndchian/tableau-citi-bike/assets/153045237/29adb41d-46d0-4060-9869-d60c842fdfa0)
 
 The map was configured so that the size of the station markers corresponds with number of rides that originated from that station. 
 
