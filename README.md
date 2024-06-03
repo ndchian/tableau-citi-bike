@@ -7,7 +7,7 @@ Link: [https://public.tableau.com/views/Module18-CitiBike_17152263523050/Story1?
 
 ![Screenshot 2024-06-03 at 1 23 30 PM](https://github.com/ndchian/tableau-citi-bike/assets/153045237/29adb41d-46d0-4060-9869-d60c842fdfa0)
 
-The map was configured so that the size of the station markers corresponds with number of rides that originated from that station. This story page also has a filter at the bottom to review one month at a time (options being June, July, and August).
+The map was configured so that the size of the station markers corresponds with number of rides that originated from that station. This story page also has a filter at the bottom to review one month at a time (options being June, July, and August) or to view all three months by using the all option. Please note this filter can take a minute to load and update due to amount of data.
 
 ![Screenshot 2024-06-03 at 1 25 42 PM](https://github.com/ndchian/tableau-citi-bike/assets/153045237/839da3df-28f1-4c71-bab8-adcf083d36f5)
 
